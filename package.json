@@ -1,0 +1,26 @@
+{
+  "name": "@snskar125/rn-switch",
+  "version": "1.0.0",
+  "description": "Switch Component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snskar125/rn-switch.git"
+  },
+  "keywords": [
+    "switch",
+    "react-native",
+    "android",
+    "ios",
+    "toggle"
+  ],
+  "author": "snskar125",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snskar125/rn-switch/issues"
+  },
+  "homepage": "https://github.com/snskar125/rn-switch#readme"
+}
